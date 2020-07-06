@@ -1,0 +1,7 @@
+student@ubuntu:~$ rosrun nodes_practical move.py 
+Let's move your robot
+Input your speed:2
+Distance:2
+Foward?: 0
+Current Distance : 1.99999999999
+[INFO] [1594054602.519754, 512.682000]
